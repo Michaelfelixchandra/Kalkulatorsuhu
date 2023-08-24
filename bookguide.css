@@ -57,6 +57,12 @@ header {
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
 }
 
+h1 {
+  font-size: 27px;
+  margin-top: 1px;
+  margin-bottom: 19px;
+}
+
 h3 {
   display: inline-block;
   margin-top: 7px;

@@ -78,8 +78,9 @@ ul {
 
 li {
   margin-bottom: 5px;
-  text-indent: -15px;
-  padding-left: 15px;
+  text-indent: -19px;
+  padding-left: 17px;
+  font-size: 17px;
 }
 
 .content {
